@@ -1,0 +1,66 @@
+include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+
+#bqtdfhj́!xǘ(v)
+
+<dead_acute> <B>                     : "'B"   # APOSTROPHE + LATIN CAPITAL LETTER 
+<dead_acute> <b>                     : "'b"   # APOSTROPHE + LATIN SMALL LETTER
+
+<dead_cedilla> <c>                   : "ç"   ccedilla # LATIN SMALL LETTER C WITH CEDILLA
+<dead_acute> <c>                     : "ç"   ccedilla # LATIN SMALL LETTER C WITH CEDILLA
+
+<dead_acute> <C>                     : "Ç"   Ccedilla # LATIN CAPITAL LETTER C WITH CEDILLA
+<dead_cedilla> <C>                   : "Ç"   Ccedilla # LATIN CAPITAL LETTER C WITH CEDILLA
+
+<dead_acute> <D>                     : "'D"   # APOSTROPHE + LATIN CAPITAL LETTER 
+<dead_acute> <d>                     : "'d"   # APOSTROPHE + LATIN SMALL LETTER
+
+<dead_acute> <F>                     : "'F"   # APOSTROPHE + LATIN CAPITAL LETTER 
+<dead_acute> <f>                     : "'f"   # APOSTROPHE + LATIN SMALL LETTER
+
+<dead_acute> <G>                 	 : "'G"   # APOSTROPHE + LATIN CAPITAL LETTER G
+<dead_acute> <g>                 	 : "'g"   # APOSTROPHE + LATIN SMALL LETTER G
+
+<dead_acute> <H>                     : "'H"   # APOSTROPHE + LATIN CAPITAL LETTER 
+<dead_acute> <h>                     : "'h"   # APOSTROPHE + LATIN SMALL LETTER
+
+<dead_acute> <J>                     : "'J"   # APOSTROPHE + LATIN CAPITAL LETTER 
+<dead_acute> <j>                     : "'j"   # APOSTROPHE + LATIN SMALL LETTER
+
+<dead_acute> <K>                 	 : "'K"   # APOSTROPHE + LATIN CAPITAL LETTER K
+<dead_acute> <k>                 	 : "'k"   # APOSTROPHE + LATIN SMALL LETTER K
+
+<dead_acute> <L>                 	 : "'L"   # APOSTROPHE + LATIN CAPITAL LETTER L
+<dead_acute> <l>                 	 : "'l"   # APOSTROPHE + LATIN SMALL LETTER L
+
+<dead_acute> <M>                 	 : "'M"   # APOSTROPHE + LATIN CAPITAL LETTER M
+<dead_acute> <m>                 	 : "'m"   # APOSTROPHE + LATIN SMALL LETTER M
+
+<dead_acute> <N>                 	 : "'N"   # APOSTROPHE + LATIN CAPITAL LETTER N
+<dead_acute> <n>                 	 : "'n"   # APOSTROPHE + LATIN SMALL LETTER N
+
+<dead_acute> <P>                 	 : "'P"   # APOSTROPHE + LATIN CAPITAL LETTER P
+<dead_acute> <p>                 	 : "'p"   # APOSTROPHE + LATIN SMALL LETTER P
+
+<dead_acute> <Q>                     : "'Q"   # APOSTROPHE + LATIN CAPITAL LETTER 
+<dead_acute> <q>                     : "'q"   # APOSTROPHE + LATIN SMALL LETTER
+
+<dead_acute> <R>                 	 : "'R"   # APOSTROPHE + LATIN CAPITAL LETTER R
+<dead_acute> <r>                 	 : "'r"   # APOSTROPHE + LATIN SMALL LETTER R
+
+<dead_acute> <S>                 	 : "'S"   # APOSTROPHE + LATIN CAPITAL LETTER S
+<dead_acute> <s>                 	 : "'s"   # APOSTROPHE + LATIN SMALL LETTER S 
+
+<dead_acute> <T>                     : "'T"   # APOSTROPHE + LATIN CAPITAL LETTER 
+<dead_acute> <t>                     : "'t"   # APOSTROPHE + LATIN SMALL LETTER
+
+<dead_acute> <V>                     : "'V"   # APOSTROPHE + LATIN CAPITAL LETTER 
+<dead_acute> <v>                     : "'v"   # APOSTROPHE + LATIN SMALL LETTER
+
+<dead_acute> <W>                 	 : "'W"   # APOSTROPHE + LATIN CAPITAL LETTER W
+<dead_acute> <w>                 	 : "'w"   # APOSTROPHE + LATIN SMALL LETTER W
+
+<dead_acute> <X>                     : "'X"   # APOSTROPHE + LATIN CAPITAL LETTER 
+<dead_acute> <x>                     : "'x"   # APOSTROPHE + LATIN SMALL LETTER
+
+<dead_acute> <Z>                 	 : "'Z"   # APOSTROPHE + LATIN CAPITAL LETTER Z
+<dead_acute> <z>                 	 : "'z"   # APOSTROPHE + LATIN SMALL LETTER Z

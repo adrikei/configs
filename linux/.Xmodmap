@@ -1,0 +1,11 @@
+keycode 108 = Mode_switch
+keysym s = s S scaron Scaron
+keysym c = c C ccaron Ccaron
+keysym n = n N ncaron Ncaron
+keysym e = e E ecaron Ecaron
+keysym d = d D dcaron Dcaron
+keysym z = z Z zcaron Zcaron
+keysym t = t T tcaron Tcaron
+keysym r = r R rcaron Rcaron
+keysym u = u U U016F U016E
+keysym 4 = 4 dollar EuroSign sterling

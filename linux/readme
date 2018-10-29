@@ -1,0 +1,2 @@
+# .Xcompose: changes compose so you don't get silly consonants with acute
+# .Xmodmap: Changes AltGr behavior to get some czech characters like š and ů add `xmodmap path_to_.Xmodmap to your .profile
