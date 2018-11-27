@@ -9,3 +9,6 @@ keysym t = t T tcaron Tcaron
 keysym r = r R rcaron Rcaron
 keysym u = u U U016F U016E
 keysym 4 = 4 dollar EuroSign sterling
+keysym 0 = 0 parenright masculine ordfeminine
+keysym 2 = 2 at twosuperior onehalf
+keysym 3 = 3 numbersign threesuperior onethird
