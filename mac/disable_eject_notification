@@ -1,0 +1,3 @@
+$ sudo defaults write /Library/Preferences/SystemConfiguration/com.apple.DiskArbitration.diskarbitrationd.plist DADisableEjectNotification -bool YES && sudo pkill diskarbitrationd
+
+# from https://apple.stackexchange.com/questions/6078/how-do-i-disable-this-message-the-disk-was-not-ejected-properly
